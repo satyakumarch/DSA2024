@@ -24,3 +24,10 @@ int main(){
     }
 return 0;
 } // namespace std;
+
+// output
+// Enter the size of an array:5
+// Enter array element:4 5 1 2 3
+// Enter the insertion location:3
+// Enter the value to isert:56
+// 4 5 56 1 2 3

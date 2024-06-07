@@ -1,22 +1,4 @@
-// #include<iostream>
-// using namespace std;
-// int main(){
-//     int array[10],n,x,i;
-//     cout<<"Enter size of an array:";
-//     cin>>n;
-//     cout<<"Enter array elements:";
-//     for(int i=0;i<n;i++){
-//         cin>>array[i];
-//     }
-//     cout<<"Enter element to inseert at the end:";
-//     cin>>x;
-//     array[i]=x;
-//     n++;
-//     for(int i=0;i<n;i++){
-//         cout<<array[i]<<" ";
-//     }
-//     return 0;
-// }
+
 #include<iostream>
 using namespace std;
 
@@ -43,3 +25,7 @@ int main() {
 
     return 0;
 }
+// Enter size of an array: 5
+// Enter array elements: 1 2 3 4 5
+// Enter element to insert at the end: 6   
+// Updated Array: 1 2 3 4 5 6

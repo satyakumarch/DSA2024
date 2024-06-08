@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n;
+    int n,count=1;
     cout<<"Enter the number:";
     cin>>n;
     for(int row=1;row<=n;row++){
         for(int col=1;col<=n;col++){
-            char name='a'+col-1;
-            cout<<name<<" ";
+            cout<<count<<" ";
+            count=count+1;
         }
         cout<<endl;
     }

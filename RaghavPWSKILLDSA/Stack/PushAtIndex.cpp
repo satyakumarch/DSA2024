@@ -59,4 +59,4 @@ cout<<endl;
 cout<<"Element according to their index:"<<endl;
 pushAtIdx(st,2,110);
 print(st);
-}
+} 

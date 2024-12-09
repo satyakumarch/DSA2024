@@ -1,4 +1,4 @@
-Sure! Here’s a detailed description of each point with emojis:
+
 
 ### Common Data Structures 🏗️
 
@@ -66,4 +66,4 @@ Sure! Here’s a detailed description of each point with emojis:
 6. **Greedy Algorithms** 🍀
    - A method that builds up a solution piece by piece, always choosing the next piece that offers the most immediate benefit.
 
-Feel free to explore each of these topics for a deeper understanding! 🚀
+

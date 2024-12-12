@@ -86,16 +86,16 @@ int main()
 
 	return 0;
 }
-output
-Enter the number of elements in array 1: 3
-Enter 3 elements for array 1:
-1 2 3
-Enter the number of elements in array 2: 3
-Enter 3 elements for array 2:
-2 3 4
-Enter the number of elements in array 3: 3
-Enter 3 elements for array 3:
-3 4 5
-Common elements present in arrays are :
-3
+// output
+// Enter the number of elements in array 1: 3
+// Enter 3 elements for array 1:
+// 1 2 3
+// Enter the number of elements in array 2: 3
+// Enter 3 elements for array 2:
+// 2 3 4
+// Enter the number of elements in array 3: 3
+// Enter 3 elements for array 3:
+// 3 4 5
+// Common elements present in arrays are :
+// 3
 
